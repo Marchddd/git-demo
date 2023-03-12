@@ -3,7 +3,7 @@ hello world hello git
 wwwwwwwwwwwwwwwwwwwwwww:w
 
 hello world hello githello world hello githello world hello githello world hello githello world hello git
-<<<<<<< HEAD
+ HEAD
 
 
 master.test
